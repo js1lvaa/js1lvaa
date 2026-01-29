@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## minhas estatisticas
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=js1lvaa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+## minhas habilidades
+[![My Skills](https://skillicons.dev/icons?i=discord,html,css,instagram)](https://skillicons.dev)
