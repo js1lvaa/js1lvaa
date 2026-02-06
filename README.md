@@ -19,3 +19,22 @@ Here are some ideas to get you started:
 
 ## minhas habilidades
 [![My Skills](https://skillicons.dev/icons?i=discord,html,css,instagram)](https://skillicons.dev)
+
+## 🌐 Minhas Redes Sociais
+
+<div align="left">
+<!-- Instagram -->
+  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/c/SEU_CANAL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+
+  <!-- Twitter / X -->
+  <a href="https://twitter.com/SEU_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>
